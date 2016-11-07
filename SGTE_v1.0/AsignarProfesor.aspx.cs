@@ -82,7 +82,7 @@ namespace SGTE_v1._0
             GLatLng latlng2 = new GLatLng(latitud, longitud); // colegio
             //Evalua la distancia entre el profesor y el colegio
             double distancia = latlng.distanceFrom(latlng2);
-            double km = distancia / 1000;
+            double km = distancia / 10;
 
             return km;
         }
