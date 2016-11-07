@@ -1,0 +1,75 @@
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Entidad.dll
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Datos.dll
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Entidad.pdb
+G:\_\TP3\SGTE_v1.0\SGTE_v1.0\bin\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\bin\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Datos.dll
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Entidad.dll
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Datos.pdb
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Entidad.pdb
+G:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+G:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+G:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+G:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll.config
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.dll
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\SGTE_v1.0.pdb
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Datos.dll
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Entidad.dll
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Negocio.dll
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Datos.pdb
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Entidad.pdb
+F:\TP2\SGTE_v1.0\SGTE_v1.0\bin\Negocio.pdb
+F:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.csprojResolveAssemblyReference.cache
+F:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.dll
+F:\TP2\SGTE_v1.0\SGTE_v1.0\obj\Debug\SGTE_v1.0.pdb

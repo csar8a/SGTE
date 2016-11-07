@@ -1,0 +1,12 @@
+G:\_\TP3\SGTE_v1.0\Datos\bin\Release\Datos.dll
+G:\_\TP3\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+G:\_\TP3\SGTE_v1.0\Datos\obj\Release\Datos.dll
+G:\_\TP3\SGTE_v1.0\Datos\obj\Release\Datos.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\bin\Release\Datos.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\bin\Release\Entidad.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\bin\Release\Entidad.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\obj\Release\Datos.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Datos\obj\Release\Datos.pdb

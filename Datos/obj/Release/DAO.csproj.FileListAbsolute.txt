@@ -1,0 +1,35 @@
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Release\DAO.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\bin\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\bin\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\obj\Release\DAO.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\obj\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Datos\obj\Release\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Release\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Release\Entidad.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Release\Entidad.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Release\DAO.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Release\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Release\Datos.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\bin\Release\Datos.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\bin\Release\Entidad.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\bin\Release\Entidad.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\obj\Release\DAO.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\obj\Release\Datos.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Datos\obj\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Release\DAO.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Release\Datos.pdb

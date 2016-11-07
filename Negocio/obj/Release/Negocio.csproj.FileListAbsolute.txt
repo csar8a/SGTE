@@ -1,0 +1,16 @@
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Release\Negocio.dll
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Release\Negocio.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Release\Datos.dll
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Release\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Release\Negocio.dll
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Release\Negocio.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Negocio.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Negocio.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Datos.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Entidad.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Datos.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\bin\Release\Entidad.pdb
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\obj\Release\Negocio.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\obj\Release\Negocio.dll
+D:\Make 3D_No Tocar\sam\SGTE_v1.0\Negocio\obj\Release\Negocio.pdb

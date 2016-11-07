@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaMaestra.master.cs" Inherits="SGTE_v1._0.PaginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>MAKE3D Lab</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/sb-admin.css" rel="stylesheet" />
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="SesionUsuario.aspx">MAKE3D Lab</a>
+                </div>
+                <!-- Menu Superior derecho -->
+                <ul class="nav navbar-right top-nav">
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i>
+                            <asp:Label ID="lbl_usuario" runat="server" Text=""></asp:Label>
+                            <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-fw fa-user"></i>Mi Perfil</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <a href="Index.aspx"><i class="fa fa-fw fa-power-off"></i>Cerrar Sesion</a>
+                            </li>
+                        </ul>
+                    </li>
+            </nav>
+            <asp:Literal ID="Literal1" runat="server"></asp:Literal>
+            
+            <div id="page-wrapper">
+                <div class="container-fluid">
+                    <div class="col-lg-12">
+                    <asp:ContentPlaceHolder ID="body" runat="server">
+                    </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

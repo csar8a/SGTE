@@ -1,0 +1,18 @@
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\bin\Debug\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Entidad.dll
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+F:\TP2\SGTE_v1.0\Negocio\bin\Debug\Entidad.pdb
+F:\TP2\SGTE_v1.0\Negocio\obj\Debug\CTR.csprojResolveAssemblyReference.cache
+F:\TP2\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+F:\TP2\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,24 @@
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Entidad\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Entidad\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Entidad\obj\Release\DTO.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Entidad\obj\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Entidad\obj\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Entidad\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Entidad\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Entidad\obj\Release\DTO.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Entidad\obj\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Entidad\obj\Release\Entidad.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Entidad\bin\Release\Entidad.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Entidad\bin\Release\Entidad.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Entidad\obj\Release\DTO.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\Entidad\obj\Release\Entidad.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Entidad\obj\Release\Entidad.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Entidad\bin\Release\Entidad.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Entidad\bin\Release\Entidad.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Entidad\obj\Release\DTO.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Entidad\obj\Release\Entidad.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Entidad\obj\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Entidad\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Entidad\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Entidad\obj\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Entidad\obj\Release\Entidad.pdb

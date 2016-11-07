@@ -1,0 +1,32 @@
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Entidad.dll
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\bin\Debug\Entidad.pdb
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+G:\_\TP3\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Negocio.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Debug\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Debug\Negocio.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,14 @@
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Debug\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\bin\Debug\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Datos\obj\Debug\Datos.pdb
+F:\TP2\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+F:\TP2\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+F:\TP2\SGTE_v1.0\Datos\bin\Debug\Entidad.dll
+F:\TP2\SGTE_v1.0\Datos\bin\Debug\Entidad.pdb
+F:\TP2\SGTE_v1.0\Datos\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\TP2\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+F:\TP2\SGTE_v1.0\Datos\obj\Debug\Datos.pdb

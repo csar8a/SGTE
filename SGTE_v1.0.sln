@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGTE_v1.0", "SGTE_v1.0\SGTE_v1.0.csproj", "{A7554708-3197-47C0-B763-89DAF7D4AA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTR", "Negocio\CTR.csproj", "{84651921-593E-4E46-9362-C64FB4B90E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "Datos\DAO.csproj", "{C35B7487-29BF-4E6D-919E-9D991624E6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "Entidad\DTO.csproj", "{5DA6477E-FB49-418A-8349-7085E6782C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7554708-3197-47C0-B763-89DAF7D4AA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7554708-3197-47C0-B763-89DAF7D4AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7554708-3197-47C0-B763-89DAF7D4AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7554708-3197-47C0-B763-89DAF7D4AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84651921-593E-4E46-9362-C64FB4B90E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84651921-593E-4E46-9362-C64FB4B90E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84651921-593E-4E46-9362-C64FB4B90E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84651921-593E-4E46-9362-C64FB4B90E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35B7487-29BF-4E6D-919E-9D991624E6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35B7487-29BF-4E6D-919E-9D991624E6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35B7487-29BF-4E6D-919E-9D991624E6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35B7487-29BF-4E6D-919E-9D991624E6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA6477E-FB49-418A-8349-7085E6782C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA6477E-FB49-418A-8349-7085E6782C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA6477E-FB49-418A-8349-7085E6782C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA6477E-FB49-418A-8349-7085E6782C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Negocio.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Negocio.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Release\CTR.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Release\Negocio.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Negocio\obj\Release\Negocio.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Negocio.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Negocio.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Datos.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Entidad.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Datos.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\bin\Release\Entidad.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\obj\Release\CTR.csprojResolveAssemblyReference.cache
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\obj\Release\Negocio.dll
+E:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.1\Negocio\obj\Release\Negocio.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Negocio.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Negocio.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Entidad.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\bin\Release\Entidad.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Release\CTR.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Release\Negocio.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Negocio\obj\Release\Negocio.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Negocio.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Negocio.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Datos.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Entidad.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Datos.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\bin\Release\Entidad.pdb
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\obj\Release\CTR.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\obj\Release\Negocio.dll
+C:\Users\user\Desktop\Integrado\SGTE_v1.0\Negocio\obj\Release\Negocio.pdb
+E:\_\URP 2016_II\TGP\Segunda Iteracion\2do Entregable\Anexo 20 Programacion\SGTE_v1.0\Negocio\obj\Release\CTR.csprojResolveAssemblyReference.cache

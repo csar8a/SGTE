@@ -1,0 +1,23 @@
+C:\Users\Sammy\Desktop\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+C:\Users\Sammy\Desktop\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+C:\Users\Sammy\Desktop\SGTE_v1.0\Datos\obj\Debug\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+D:\Make 3D_No Tocar\SGTE_v1.0\Datos\obj\Debug\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+G:\_\TP3\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\_\TP3\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+G:\_\TP3\SGTE_v1.0\Datos\obj\Debug\Datos.pdb
+G:\_\TP3\SGTE_v1.0\Datos\bin\Debug\Entidad.dll
+G:\_\TP3\SGTE_v1.0\Datos\bin\Debug\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Debug\Datos.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Debug\Entidad.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\bin\Debug\Entidad.pdb
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Debug\Datos.dll
+F:\_\URP 2016_II\TGP\Segunda Iteracion\Progra\Nueva carpeta\SGTE_v1.0\Datos\obj\Debug\Datos.pdb
